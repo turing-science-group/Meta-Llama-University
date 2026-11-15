@@ -1,0 +1,16 @@
+-
+Q: Where is the University of Moratuwa located?
+A: Katubedda
+-
+Q: Do you know where the Colombo University is located?
+A: Cinnamon Gardens
+-
+Q: Can you please tell me where the Galle Face Beach is located?
+A: Galle Face
+-
+Q: Could you direct me to the Shangri-La Hotel?
+A: Kollupitiya
+-
+Q: How can I find the University of Vavuniya?
+A: Pambaimadu
+-

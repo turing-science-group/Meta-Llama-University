@@ -1,0 +1,7 @@
+Add a "dataloader.py" script in this repository which will do the following. 
+Here is the official PyTorch tutorial: https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html
+(1) Load the "question-answer" templates from the .json file in this directory
+(2) Load the "location" dictionary with key-value pairs from the .json files in this directory
+(3) Create a DataLoader class with PyTorch. 
+    - create the question/answer pairs using these two pieces of data
+    - wrap them in a DataLoader class, and output the train_dataloader & test_dataloader

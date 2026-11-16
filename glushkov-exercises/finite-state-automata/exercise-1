@@ -1,1 +1,8 @@
 Reading material: https://math.mit.edu/~sipser/18404/rec01-Pratyush.pdf
+
+Exercise: Construct a finite state automata that can answer the following questions. The input is a sequence of words, and the output is a sequence of words. 
+
+Capital_list = [(A1, B1), (A2, B2), ..., (A_n, B_n)]
+Question_templates = ["What is the capital city of A?", "Do you know what the capital city of A is?", "Which city is the capital of ?"] 
+Answer_template = [B]
+

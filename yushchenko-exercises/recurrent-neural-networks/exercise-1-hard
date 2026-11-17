@@ -2,6 +2,7 @@ Notes on RNNs: https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes0
 
 Codebase on linear RNN architectures: https://github.com/state-spaces/s4/tree/main/models
 
-Previous exercise: 
+Previous exercise: https://github.com/turing-science-labs/Meta-Llama-University/blob/main/yushchenko-exercises/dataloader/exercise-1-easy.txt
 
-Q: Can you add code in this repository to train a linear state space model on the question-answering dataloader from the previous exercise? 
+Q: Can you add code in this repository to train a linear state space model on the question-answering dataloader from the above exercise? 
+Find the minimum number of parameters needed to achieve an error of 0% on the training dataset. 

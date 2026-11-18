@@ -1,8 +1,9 @@
-Notes on RNNs: https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf
-
-Codebase on linear RNN architectures: https://github.com/state-spaces/s4/tree/main/models
+Notes on RNNs: 
+- Stanford course notes: https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf
+- Stanford NeurIPS21 paper: https://papers.neurips.cc/paper_files/paper/2021/file/05546b0e38ab9175cd905eebcc6ebb76-Paper.pdf
+- Codebase: https://github.com/state-spaces/s4/tree/main/models
 
 Previous exercise: https://github.com/turing-science-labs/Meta-Llama-University/blob/main/yushchenko-exercises/dataloader/exercise-1-easy.txt
 
-Q: Can you add code in this repository to train a linear state space model on the question-answering dataloader from the above exercise? 
+Q: Can you add code in this repository to train a linear RNN on the question-answering dataloader from the above exercise? They are also known as linear SSM
 Find the minimum number of parameters needed to achieve an error of 0% on the training dataset. 

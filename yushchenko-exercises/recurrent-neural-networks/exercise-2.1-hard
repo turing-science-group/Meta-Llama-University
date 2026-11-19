@@ -5,5 +5,5 @@ Notes on RNNs:
 
 Previous exercise: https://github.com/turing-science-labs/Meta-Llama-University/blob/main/yushchenko-exercises/dataloader/exercise-1-easy.txt
 
-Q: Can you add code in this repository to train a linear RNN on the question-answering dataloader from the above exercise? They are also known as linear SSM
-Find the minimum number of parameters needed to achieve an error of 0% on the training dataset. 
+Q: Can you add code in this repository to train a linear RNN on the question-answering dataloader from the above exercise? 
+They are also known as linear SSM in the NeurIPS21 paper. Find the minimum number of parameters needed to achieve an error of 0% on the training dataset. 

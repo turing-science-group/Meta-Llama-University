@@ -1,1 +1,9 @@
+Design a type 0 Chomsky formal grammar that can valid >10,000 Pythonic inputs/outputs, such as the one below. Note that a type 0 Chomsky formal grammar is equivalent to a Turing machines.
 
+#1. 
+<INPUT>: x = 3; x = x+5; print(x); y=3; print(x - y);  
+<OUTPUT>: 8; 5
+
+#2.
+<INPUT>: x = -1; y = 21; x = x + y; print(x); 
+<OUTPUT>: 20
